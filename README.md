@@ -74,7 +74,7 @@ The Hotel Booking Demand Analysis Dashboard is an interactive Business Intellige
 
 ---
 
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
