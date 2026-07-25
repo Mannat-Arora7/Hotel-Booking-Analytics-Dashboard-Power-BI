@@ -1,4 +1,3 @@
-# Hotel-Booking-Dashboard-Power-BI
 # 🏨 Hotel Booking Demand Analysis Dashboard | Power BI
 
 ## Project Overview
